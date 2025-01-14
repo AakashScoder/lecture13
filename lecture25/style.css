@@ -1,0 +1,16 @@
+.box {
+    height: 400px;
+    width: 400px;
+    background-color:red;
+    border: 5px solid blue;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+    
+    }
+p{
+    font-size: 36px;
+}
